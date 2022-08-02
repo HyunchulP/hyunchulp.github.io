@@ -4,6 +4,9 @@
 
 layout: home
 ---
+<img src="parkh_Fall2016.jpg" alt="Hyunchul Park" width="200"/>
+
+
 I am an Associate Professor at the Department of Mathematics at the State University of New York at New Paltz. 
 
 I am working on probability theory, especially jump-type Lévy processes. Recently, I am working on studying geometry of domains in the Euclidean space using spectral objects such as trace, heat content, or torsional rigidity with respect to jump processes. I am also interested in studying fractal structures related to Lévy processes.  
