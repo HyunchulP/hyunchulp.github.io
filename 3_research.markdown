@@ -11,7 +11,7 @@ My research fields are probability theory and stochastic processes. I am especia
 
 1. Spectral heat content on a class of fractal sets for subordinate killed Brownian motions (with Yimin Xiao). To appear in **Mathematische Nachrichten**, (2022).  [PDF](https://hyunchulp.github.io/Resources/papers/Heat-content-on-fractal_revision24.pdf)
 
-1. Large-time and small-time behaviors of the spectral heat content for time-changed stable processes (with Kei Kobayashi). To appear in **Electronic Communications in Probability**, (2022). PDF
+1. Large-time and small-time behaviors of the spectral heat content for time-changed stable processes (with Kei Kobayashi). To appear in **Electronic Communications in Probability**, (2022). [PDF](https://hyunchulp.github.io/Resources/papers/SL.pdf)
 
 1. Spectral heat content for time-changed killed Brownian motions (with Kei Kobayashi). **Journal of Theoretical Probability**, (2022). [PDF](https://link.springer.com/epdf/10.1007/s10959-022-01188-8?sharing_token=MR4BQbPv3SJDF7XBACZ1-_e4RwlQNchNByi7wbcMAY6ONLwr9vRL5N001xNtb4RahI7N2v3wqOgcIeMFuTwx0uRZA8x53fFpYPId0scnHcVpd9R5Si7eWn7Vy_qJ2WOOZi4rYNSuw7RpehbLiAFeEngwX5v5Zq4KECpfs5fp_oc%3D)
 
