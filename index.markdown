@@ -6,7 +6,7 @@ layout: home
 ---
 [<img src="logo_NewPaltz.jpg" alt="SUNY New Paltz" width="200"/>](https://www.newpaltz.edu)
 
-<img style="float: left; margin: 5px 35px 15px 0px;" src="parkh_Fall2016.jpg" width="220" />
+[<img style="float: left; margin: 5px 35px 15px 0px;" src="parkh_Fall2016.jpg" width="220" />](https://hyunchulp.github.io/)
 
 I am an Associate Professor at the Department of Mathematics at the State University of New York at New Paltz. 
 
