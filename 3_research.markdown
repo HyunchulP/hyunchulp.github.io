@@ -52,9 +52,7 @@ My research fields are probability theory and stochastic processes. I am especia
 
 1. Stochastics and Geometry (Online) (21w5184), Banff Canada, 3/8-3/12, 2021. Online Seminar
 
-1. Bernoulli-IMS One World Symposium 2020, 8/24-8/28, 2020. Online seminar.
-
-Slide, Presentation (Spectral heat content for α-stable processes in C1,1 open sets)
+1. Bernoulli-IMS One World Symposium 2020, 8/24-8/28, 2020. Online seminar. Slide, Presentation (Spectral heat content for α-stable processes in C1,1 open sets)
 
 1. The Eighth Pacific Rim Conference in Mathematics, 8/3-8/3, 2020. Online seminar. 
 
