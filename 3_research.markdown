@@ -5,33 +5,31 @@ permalink: /research/
 ---
 
 My research fields are probability theory and stochastic processes. I am especially interested in random processes that move by jumps (jump processes). Jump processes are natural mathematical objects and they are widely used in many fields such as PDE and finance. I am working on potential and spectral properties of those processes.  
-  
-    
-    
+
 
 ## Papers and Preprints
 
 1. Spectral heat content on a class of fractal sets for subordinate killed Brownian motions (with Yimin Xiao). To appear in **Mathematische Nachrichten**, (2022).  PDF
 
-2. Large-time and small-time behaviors of the spectral heat content for time-changed stable processes (with Kei Kobayashi). To appear in Electronic Communications in Probability, (2022). PDF
+2. Large-time and small-time behaviors of the spectral heat content for time-changed stable processes (with Kei Kobayashi). To appear in **Electronic Communications in Probability**, (2022). PDF
 
-3. Spectral heat content for time-changed killed Brownian motions (with Kei Kobayashi). Journal of Theoretical Probability, (2022). PDF
+3. Spectral heat content for time-changed killed Brownian motions (with Kei Kobayashi). **Journal of Theoretical Probability**, (2022). PDF
 
-4. Spectral heat content for α-stable processes in C1,1 open sets (with Renming Song). Electronic Journal of Probability, Vol. 27, paper no. 22, 1--19, (2022). PDF
+4. Spectral heat content for α-stable processes in C1,1 open sets (with Renming Song). **Electronic Journal of Probability**, Vol. 27, paper no. 22, 1--19, (2022). PDF
 
-5. Higher order terms of the spectral heat content for killed subordinate and subordinate killed Brownian motions related to symmetric α-stable processes in R.  Potential Analysis,  Vol 57 283--303, (2022).  PDF 
+5. Higher order terms of the spectral heat content for killed subordinate and subordinate killed Brownian motions related to symmetric α-stable processes in R.  **Potential Analysis**,  Vol 57 283--303, (2022).  PDF 
 
-6. H. Park, Y. Xiao, and X. Yang: Uniform dimension results for the inverse images of symmetric Lévy processes, Journal of Theoretical Probability, Volume 33, 2213--2232, (2020). PDF 
+6. H. Park, Y. Xiao, and X. Yang: Uniform dimension results for the inverse images of symmetric Lévy processes, **Journal of Theoretical Probability**, Volume 33, 2213--2232, (2020). PDF 
 
-7. H. Park and R. Song: Small time asymptotics of spectral heat contents for subordinate killed Brownian motions related to isotropic 𝛼-stable processes, Bulletin of London Mathematical Society,  Volume 51, Issue 2 371--384, (2019). PDF
+7. H. Park and R. Song: Small time asymptotics of spectral heat contents for subordinate killed Brownian motions related to isotropic 𝛼-stable processes, **Bulletin of London Mathematical Society**,  Volume 51, Issue 2 371--384, (2019). PDF
 
-8. T. Grzywny, H. Park and R. Song: Spectral heat content for Lévy processes, Mathematische Nachrichten,  Volume 292, Issue 4, 805--825, (2019). PDF
+8. T. Grzywny, H. Park and R. Song: Spectral heat content for Lévy processes, **Mathematische Nachrichten**,  Volume 292, Issue 4, 805--825, (2019). PDF
 
-9. H. Park: Fatou’s theorem for subordinate Brownian motions with Gaussian components on C1,1 open sets , Illinois Journal of Mathematics, Volume 60, Number 3-4, 761--790, (2016). PDF
+9. H. Park: Fatou’s theorem for subordinate Brownian motions with Gaussian components on C1,1 open sets , **Illinois Journal of Mathematics**, Volume 60, Number 3-4, 761--790, (2016). PDF
 
-10. H. Park and R. Song: Trace estimates for relativistic stable processes. Potential Analysis, Vol. 41 1273--1291, (2014). PDF
+10. H. Park and R. Song: Trace estimates for relativistic stable processes. **Potential Analysis**, Vol. 41 1273--1291, (2014). PDF
 
-11. P. Kim, H. Park and R. Song: Sharp estimates on the Green functions of perturbations of subordinate Brownian motions in bounded κ-fat open sets. Potential Analysis, Vol. 38 319--344, (2013). PDF
+11. P. Kim, H. Park and R. Song: Sharp estimates on the Green functions of perturbations of subordinate Brownian motions in bounded κ-fat open sets. **Potential Analysis**, Vol. 38 319--344, (2013). PDF
 
 12. H. Park: Potential theory of subordinate Brownian motions and their perturbations. Ph. D. Thesis. UIUC (2013). PDF
 
