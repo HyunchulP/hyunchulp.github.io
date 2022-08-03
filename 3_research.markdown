@@ -17,7 +17,7 @@ My research fields are probability theory and stochastic processes. I am especia
 
 1. Spectral heat content for α-stable processes in C1,1 open sets (with Renming Song). **Electronic Journal of Probability**, Vol. 27, paper no. 22, 1--19, (2022). [PDF](https://projecteuclid.org/journals/electronic-journal-of-probability/volume-27/issue-none/Spectral-heat-content-for-%ce%b1-stable-processes-in-C11-open/10.1214/22-EJP752.full)
 
-1. Higher order terms of the spectral heat content for killed subordinate and subordinate killed Brownian motions related to symmetric α-stable processes in R.  **Potential Analysis**,  Vol 57 283--303, (2022).  [PDF]([PDF](https://hyunchulp.github.io/Resources/papers/HigherOrderSHC.pdf)) 
+1. Higher order terms of the spectral heat content for killed subordinate and subordinate killed Brownian motions related to symmetric α-stable processes in R.  **Potential Analysis**,  Vol 57 283--303, (2022).  [PDF](https://hyunchulp.github.io/Resources/papers/HigherOrderSHC.pdf)
 
 1. H. Park, Y. Xiao, and X. Yang: Uniform dimension results for the inverse images of symmetric Lévy processes, **Journal of Theoretical Probability**, Volume 33, 2213--2232, (2020). PDF 
 
