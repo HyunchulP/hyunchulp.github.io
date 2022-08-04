@@ -16,6 +16,14 @@ You can find more about my research in the [Research tap](https://hyunchulp.gith
 
 I am an organizer for Math and Cookies at the mathematics department. This is an introductory research talk for our undergraduate students in a friendly atmosphere (with cookies). If you'd like to give a talk, please contact me at parkh@newpaltz.edu. 
 
+1 Hawk Drive    
+Faculty Office Building S1    
+New Paltz, NY 12561
+
+Phone: 845-257-3530
+
+Email: parkh (at) newpaltz (dot) edu
+
 
 
 <!-- # bundle exec jekyll serve --livereload -->
