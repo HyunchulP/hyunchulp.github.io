@@ -33,6 +33,6 @@ David Hobby, SUNY New Paltz
 
 - September 30, 2020 - [Jaiung Jun](https://hyunchulp.github.io/Resources/MathandCookies/JaiungJun.pdf){:target="_blank"}
 
-- October 14, 2020 - [Christina Koehne](https://hyunchulp.github.io/Resources/MathandCookies/Christina Koehne.pdf){:target="_blank"}
+- October 14, 2020 - [Christina Koehne](https://hyunchulp.github.io/Resources/MathandCookies/ChristinaKoehne.pdf){:target="_blank"}
 
 - November 11, 2020 - [Moshe Cohen](https://hyunchulp.github.io/Resources/MathandCookies/MosheCohen.pdf){:target="_blank"}
